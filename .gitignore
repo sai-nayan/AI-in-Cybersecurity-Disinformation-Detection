@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+Truth_Seeker_Model_Dataset.csv
+*.parquet
